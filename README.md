@@ -5,6 +5,7 @@
 
 ![Livia GitHub stats](https://github-readme-stats.vercel.app/api?username=LiviaCaetano&show_icons=true&theme=dracula)
 
+
 ## Tecnologia que uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
