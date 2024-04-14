@@ -1,7 +1,6 @@
 ### Olá! Eu sou a Lívia Caetano
 
 - 🎓 Estudando Sistemas de Informação
-- ♥️ Movida pela paixão de poder transformar através da programação
 - 👩🏻‍💻Estudando Java e C 
 
 </div><br>
