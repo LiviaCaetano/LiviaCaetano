@@ -1,5 +1,9 @@
 ### Olá! Eu sou a Lívia Caetano
 
+- Estudando Sistemas de Informação
+- Movida pela paixão de poder transformar através da programação
+- Estudando Java e C 
+
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/livia-caetano-639351272) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_liiviacaetano?igsh=MWFxb3Q2N243aDMzeA==)  
 
@@ -13,4 +17,4 @@
 <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </div><br>
 
-Estudante de Sistemas de Informação no 1° período, movida pela paixão de poder transformar através da programação.
+
